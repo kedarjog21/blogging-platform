@@ -1,0 +1,1 @@
+#This project is the backend part of an blogging platform. It is paused for a while. Will resume working on this after a few days.
