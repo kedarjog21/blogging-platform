@@ -1,0 +1,13 @@
+server:
+  port: 8090
+
+spring:
+  # Database Configuration
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3306/kedar_db
+    username: root
+    password: kedar
+    driver-class-name: com.mysql.cj.jdbc.Driver

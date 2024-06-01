@@ -1,10 +1,10 @@
-package org.uplifttech.bloggingplatform;
+package org.uplifttech.sqlconnect;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BloggingPlatformApplicationTests {
+class SqlconnectApplicationTests {
 
 	@Test
 	void contextLoads() {
