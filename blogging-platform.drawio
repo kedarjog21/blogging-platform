@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2024-05-28T05:50:28.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BP-cnqC_NAfJu5tk5AKG" version="24.3.1" type="device">
+  <diagram name="Page-1" id="czZ22VoxbaFe8YYguLRs">
+    <mxGraphModel dx="1246" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pUIxTdIf_qFarFaHOASu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pUIxTdIf_qFarFaHOASu-1" target="pUIxTdIf_qFarFaHOASu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUIxTdIf_qFarFaHOASu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pUIxTdIf_qFarFaHOASu-1" target="pUIxTdIf_qFarFaHOASu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUIxTdIf_qFarFaHOASu-1" value="Blogs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pUIxTdIf_qFarFaHOASu-3" value="Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pUIxTdIf_qFarFaHOASu-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Blogging Platform&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pUIxTdIf_qFarFaHOASu-6" value="Reviews" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
