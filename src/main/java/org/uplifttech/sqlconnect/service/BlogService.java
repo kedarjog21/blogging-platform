@@ -15,7 +15,7 @@ public class BlogService {
    private final BlogRepository blogRepository;
 
     public void createBlog(BlogCreationRequest blogCreationRequest) {
-        log.info("Calling service" + blogCreationRequest);
+        log.info("Calling service "  + blogCreationRequest);
         Blog blog= new Blog();
         blog.setContent(blogCreationRequest.content());
         blog.setTitle(blogCreationRequest.title());
